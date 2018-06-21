@@ -16,5 +16,5 @@
       "server": "live-server --port=9001"
    },
    "author": "Joshua McKinney",
-   "license": "UNLICENCED"
+   "license": "MIT"
 }
